@@ -29,14 +29,6 @@ This project is a web-based freelance platform's frontend, showcasing the user i
 
 ## Credits
 
-### Contributors
-
-- TERGUI Mohamed: Dashboard page
-- EL MAHFOUDI Nada: About page
-- MIESSAL Mohammed: Contact & auth pages
-- ELOUISSI Yassine: Search page
-- AIT TAMGHART Abdelghani: main page
-
 ### Libraries and Frameworks
 
 - TailwindCSS: Used for styling and responsive layout
@@ -51,7 +43,3 @@ This project is a web-based freelance platform's frontend, showcasing the user i
 ### Inspiration
 
 - PeoplePerHour: Inspiration for the freelance platform concept.
-
-## Contact
-
-For inquiries, contact [simotergui4gmail.com].
