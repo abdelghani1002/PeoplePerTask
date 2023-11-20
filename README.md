@@ -27,6 +27,16 @@ This project is a web-based freelance platform's frontend, showcasing the user i
 - `images/`: Image and resource files
 - `Low-Fidelity`: low-fidelity mockups and wireframes for the freelance platform's frontend.
 
+## Database
+
+This project utilizes a database to store and manage data. Here are the details:
+
+### Database Setup
+
+1. **Database Engine**: MySQL
+2. **Connection Information**: -how to connect to the database-
+...
+
 ## Credits
 
 ### Libraries and Frameworks
